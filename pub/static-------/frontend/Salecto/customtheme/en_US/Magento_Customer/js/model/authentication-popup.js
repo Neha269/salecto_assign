@@ -1,0 +1,1 @@
+/var/www/vhosts/magento235.local/htdocs/vendor/magento/module-customer/view/frontend/web/js/model/authentication-popup.js

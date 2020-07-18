@@ -1,0 +1,1 @@
+/var/www/vhosts/magento235.local/htdocs/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/theme.js

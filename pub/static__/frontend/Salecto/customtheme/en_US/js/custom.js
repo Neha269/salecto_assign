@@ -1,0 +1,1 @@
+/var/www/vhosts/magento235.local/htdocs/app/design/frontend/Salecto/customtheme/web/js/custom.js

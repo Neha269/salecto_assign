@@ -1,0 +1,1 @@
+/var/www/vhosts/magento235.local/htdocs/vendor/magento/module-cookie/view/base/web/js/jquery.storageapi.extended.js

@@ -1,0 +1,1 @@
+/var/www/vhosts/magento235.local/htdocs/lib/web/mage/template.js

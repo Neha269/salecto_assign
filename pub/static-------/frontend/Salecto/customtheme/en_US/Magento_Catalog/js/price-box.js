@@ -1,0 +1,1 @@
+/var/www/vhosts/magento235.local/htdocs/vendor/magento/module-catalog/view/base/web/js/price-box.js

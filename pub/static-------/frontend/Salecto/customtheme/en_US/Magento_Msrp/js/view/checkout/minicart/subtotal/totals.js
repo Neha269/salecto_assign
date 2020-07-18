@@ -1,0 +1,1 @@
+/var/www/vhosts/magento235.local/htdocs/vendor/magento/module-msrp/view/frontend/web/js/view/checkout/minicart/subtotal/totals.js

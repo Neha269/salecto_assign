@@ -1,0 +1,1 @@
+/var/www/vhosts/magento235.local/htdocs/vendor/msp/recaptcha/view/frontend/web/js/registry.js
